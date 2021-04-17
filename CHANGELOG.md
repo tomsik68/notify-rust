@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased](https://github.com/hoodie/notify-rust/compare/v4.4.0...HEAD) (2021-04-25)
+
+### Fixes
+
+* **deps:** update winrt-notification to 0.3 ec62dd8
+
+
 ## [v4.4.0](https://github.com/hoodie/notify-rust/compare/v4.3.0...v4.4.0) (2021-04-25)
 
 ### Features
